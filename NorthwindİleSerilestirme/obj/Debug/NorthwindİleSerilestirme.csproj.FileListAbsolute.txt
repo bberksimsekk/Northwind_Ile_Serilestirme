@@ -1,0 +1,13 @@
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\bin\Debug\NorthwindİleSerilestirme.exe.config
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\bin\Debug\NorthwindİleSerilestirme.exe
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\bin\Debug\NorthwindİleSerilestirme.pdb
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\obj\Debug\NorthwindİleSerilestirme.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\obj\Debug\NorthwindİleSerilestirme.Form1.resources
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\obj\Debug\NorthwindİleSerilestirme.Properties.Resources.resources
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\obj\Debug\NorthwindİleSerilestirme.csproj.GenerateResource.cache
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\obj\Debug\NorthwindİleSerilestirme.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\obj\Debug\NorthwindİleSerilestirme.exe
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\obj\Debug\NorthwindİleSerilestirme.pdb
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\bin\Debug\DataAccessLayer.dll
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\bin\Debug\DataAccessLayer.pdb
+C:\Users\Huawei\source\repos\NorthwindİleSerilestirme\NorthwindİleSerilestirme\obj\Debug\Northwin.35CFDA5D.Up2Date
